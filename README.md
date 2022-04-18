@@ -1,8 +1,5 @@
 ### Mi perfil en github 👋
 
-<!--
-**ZairaHernandez/ZairaHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Algunos datos sobre mi:
 
 - 🔭 Actualmente soy una aspirante a ingeniería de software ...
@@ -13,4 +10,4 @@ Algunos datos sobre mi:
 - 📫 Intento hacer mi mejor esfuerzo ...
 - 😄 pronombres: She/her ...
 - ⚡ Mi MBTI es el de ESTJ...
--->
+
